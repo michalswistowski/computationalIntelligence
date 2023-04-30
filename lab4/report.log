@@ -69,3 +69,13 @@ ValueError: Output size (10, 6) is not compatible with broadcast dimensions of i
 2023-03-21 19:14:23,287 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
 2023-03-21 19:14:24,521 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.3998473234634422, best pos: [0.73969664 0.67948335 0.38842211 0.0427567  0.9566121  0.99076781]
 2023-03-21 20:44:15,166 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2023-03-22 11:21:22,932 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2023-03-22 11:21:25,809 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.3104795758059925, best pos: [0.37294134 0.3529658  0.00414754 0.4844401  0.99315613 0.81870045]
+2023-03-22 12:25:25,196 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2023-03-22 12:25:26,641 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -2.8115061415726696, best pos: [0.47437835 0.40484407 0.99918451 0.97963233 0.28725282 0.56106875]
+2023-03-22 12:25:36,868 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2023-03-22 12:25:38,501 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -2.8327683178576537, best pos: [0.59246838 0.55873652 0.99134015 0.99614928 0.49875514 0.12347416]
+2023-04-02 09:12:52,562 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2023-04-02 09:12:55,375 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -2.8124974473920745, best pos: [0.34108004 0.35511494 0.97359378 0.98255166 0.12944025 0.68198435]
+2023-04-02 12:46:47,013 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2023-04-02 12:46:49,929 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -2.827483748643963, best pos: [0.64360737 0.60709182 0.99212727 0.9897054  0.2544549  0.35073918]
